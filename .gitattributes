@@ -1,0 +1,2 @@
+# If you use Git LFS:
+# *.npy filter=lfs diff=lfs merge=lfs -text
